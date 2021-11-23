@@ -3,9 +3,9 @@
 
 ### Driver install:
 
-````git clone https://github.com/louisvarley/LCD-show```
+```git clone https://github.com/louisvarley/LCD-show```
 
-````cd LCD-show```
+```cd LCD-show```
 
 ```sudo ./LCD35-show```
 
